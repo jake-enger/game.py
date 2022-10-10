@@ -15,4 +15,4 @@ def number_guessing(minimum, maximum):
             return tries
 
 print ("Well done,", playerName, "you guessed my number in {} guesses!".format(
-    number_guessing(1, 2)))
+    number_guessing(1, 100)))
